@@ -246,10 +246,14 @@
 	}
 
 	.img_tec {
-		width: 30%;
+		width: 40%;
 	}
 
 	.h_100 {
 		height: auto;
+	}
+
+	.h_50 {
+		height: 50vh !important;
 	}
 }
