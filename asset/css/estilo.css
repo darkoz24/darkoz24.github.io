@@ -245,6 +245,10 @@
 		grid-template-columns: repeat(1, 1fr);
 	}
 
+	.col_1 {
+		grid-template-columns: repeat(1, 1fr);
+	}
+
 	.img_tec {
 		width: 40%;
 	}
@@ -256,4 +260,17 @@
 	.h_50 {
 		height: 50vh !important;
 	}
+
+	.section_acerca {
+		height: auto !important;
+	}
+
+	.mb_1 {
+		margin-bottom: 16px;
+	}
+
+	.card_tec {
+		height: 25vh;
+	}
+
 }
